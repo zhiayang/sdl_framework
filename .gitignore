@@ -39,3 +39,4 @@ scripts/corec
 *.ll
 *.bc
 .travis.yml
+build
